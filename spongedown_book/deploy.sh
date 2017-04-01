@@ -1,7 +1,5 @@
 #!/bin/bash
 
-cd spongedown_book
-
 rm -rf book
 
 aklat build
