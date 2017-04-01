@@ -3,7 +3,8 @@
 [Spongedown](https://github.com/ivanceras/spongedown) is a wrapper of markdown with
 added support to multiple funky features
 
-[Book source code](https://github.com/ivanceras/Books/spongedown_book/)
+[Book source code](https://github.com/ivanceras/Books/tree/master/spongedown_book)
+
 
 * [bob](https://github.com/ivanceras/svgbobrus/) diagrams
 * comic/emoji faces
