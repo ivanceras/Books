@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## Rebuild the book an force push to gh-pages branch
+
 rm -rf book
 
 aklat build
