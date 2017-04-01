@@ -58,5 +58,6 @@ equations, diagrams and comics together with markdown.
 ```
 
 The code used in writing this book is hosted in github [here](https://github.com/ivanceras/Books/tree/master/spongedown_book)
+and the source code used for generating the book is in [here](https://github.com/ivanceras/aklat)
 
 {{#playpen Spongedown.md}}
