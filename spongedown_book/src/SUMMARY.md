@@ -8,7 +8,7 @@
     - [Faces](Faces.md)
     - [Intersections](Intersections.md)
 - [Complex Shapes](Complex_shapes.md)
-    - [Diagrams](complex/Diagrams.md)
-    - [Graphs](complex/Graphs.md)
     - [Comics](complex/comics.md)
+    - [Graphs](complex/Graphs.md)
+    - [Diagrams](complex/Diagrams.md)
 
